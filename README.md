@@ -1,7 +1,7 @@
-# commarh-releases
-
-User guide for CommaRh on Rhino 8. Install from the Rhino Package Manager. Source code is private.
-
-Guide: https://comma3d.github.io/commarh-releases/
-
-Issues: https://github.com/Comma3D/commarh-releases/issues
+# commarh-releases
+
+This repository redirected to the suite guide:
+
+https://comma3d.github.io/comma-docs/rhino/
+
+Source and Issues: https://github.com/Comma3D/comma-docs
