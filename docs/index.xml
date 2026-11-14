@@ -1,0 +1,321 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CommaRh – CommaRh</title><link>https://comma3d.github.io/commarh-releases/docs/</link><description>Recent content on CommaRh</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Comma</copyright><atom:link href="https://comma3d.github.io/commarh-releases/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>commaMenu</title><link>https://comma3d.github.io/commarh-releases/docs/more/commamenu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/more/commamenu/</guid><description>
+&lt;p&gt;Type &lt;code&gt;commaMenu&lt;/code&gt; to open the compact type-based context menu. License Manager is on this menu and runs &lt;code&gt;commaRegister&lt;/code&gt;.&lt;/p&gt;</description></item><item><title>Installing</title><link>https://comma3d.github.io/commarh-releases/docs/getting-started/installing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/getting-started/installing/</guid><description>
+&lt;p&gt;CommaRh installs from Rhino&amp;rsquo;s Package Manager. There is no separate installer to download.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open Rhino 8 on Windows.&lt;/li&gt;
+&lt;li&gt;Run &lt;code&gt;PackageManager&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Search for &lt;code&gt;CommaRh&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Click Install.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This guide matches CommaRh 26.1.8. Package Manager shows the version that is installed.&lt;/p&gt;
+&lt;p&gt;After install, run &lt;code&gt;commaMenu&lt;/code&gt;.&lt;/p&gt;</description></item><item><title>uDwg</title><link>https://comma3d.github.io/commarh-releases/docs/cad/udwg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/cad/udwg/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;CAD&lt;/strong&gt; → &lt;code&gt;uDwg&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;DWG and AutoCAD bridge tools.&lt;/p&gt;</description></item><item><title>uFindCreateBlock</title><link>https://comma3d.github.io/commarh-releases/docs/drafting/ufindcreateblock/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/drafting/ufindcreateblock/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Drafting&lt;/strong&gt; → &lt;code&gt;uFindCreateBlock&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Find rigidly translated or rotated copies of selected geometry and convert them to one block.&lt;/p&gt;</description></item><item><title>uFlipSrf</title><link>https://comma3d.github.io/commarh-releases/docs/surface/uflipsrf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/surface/uflipsrf/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Surface&lt;/strong&gt; → &lt;code&gt;uFlipSrf&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Flip surface normal by vector, axis, or guide curve.&lt;/p&gt;</description></item><item><title>uIfcImport</title><link>https://comma3d.github.io/commarh-releases/docs/ifc/uifcimport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/ifc/uifcimport/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;IFC&lt;/strong&gt; → &lt;code&gt;uIfcImport&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Import IFC with options.&lt;/p&gt;</description></item><item><title>uLayer</title><link>https://comma3d.github.io/commarh-releases/docs/doc/ulayer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/doc/ulayer/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Doc&lt;/strong&gt; → &lt;code&gt;uLayer&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Open Comma Layer; layer actions remain in the panel.&lt;/p&gt;</description></item><item><title>uMeshPatch</title><link>https://comma3d.github.io/commarh-releases/docs/mesh/umeshpatch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/mesh/umeshpatch/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Mesh&lt;/strong&gt; → &lt;code&gt;uMeshPatch&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Patch mesh from closed boundaries using tensile or Laplacian relaxation.&lt;/p&gt;</description></item><item><title>uScaleBrep</title><link>https://comma3d.github.io/commarh-releases/docs/brep/uscalebrep/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/brep/uscalebrep/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Brep&lt;/strong&gt; → &lt;code&gt;uScaleBrep&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Scale Brep geometry.&lt;/p&gt;</description></item><item><title>uScaleCrvAtt</title><link>https://comma3d.github.io/commarh-releases/docs/curve/uscalecrvatt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/curve/uscalecrvatt/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Curve&lt;/strong&gt; → &lt;code&gt;uScaleCrvAtt&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Scale a curve at a specific point.&lt;/p&gt;</description></item><item><title>uCombineNurbs</title><link>https://comma3d.github.io/commarh-releases/docs/brep/ucombinenurbs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/brep/ucombinenurbs/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Brep&lt;/strong&gt; → &lt;code&gt;uCombineNurbs&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Rebuild direction-matched Brep/surface edges and create combined loft surfaces.&lt;/p&gt;</description></item><item><title>uDwgImport</title><link>https://comma3d.github.io/commarh-releases/docs/cad/udwgimport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/cad/udwgimport/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;CAD&lt;/strong&gt; → &lt;code&gt;uDwgImport&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Import CAD with options.&lt;/p&gt;</description></item><item><title>uExportBox</title><link>https://comma3d.github.io/commarh-releases/docs/more/uexportbox/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/more/uexportbox/</guid><description>
+&lt;p&gt;Where to find it: type &lt;code&gt;uExportBox&lt;/code&gt;. This command is not listed on &lt;code&gt;commaMenu&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Clip-box parallel mesh export.&lt;/p&gt;</description></item><item><title>uFlipCrv</title><link>https://comma3d.github.io/commarh-releases/docs/curve/uflipcrv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/curve/uflipcrv/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Curve&lt;/strong&gt; → &lt;code&gt;uFlipCrv&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Flip curve direction by vector, axis, or guide curve.&lt;/p&gt;</description></item><item><title>uIfcExport</title><link>https://comma3d.github.io/commarh-releases/docs/ifc/uifcexport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/ifc/uifcexport/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;IFC&lt;/strong&gt; → &lt;code&gt;uIfcExport&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Export selected objects to IFC. Default SitePlacement=Local (OpenBIM). The command seeds missing SitePlacement / MapConversion values into Document User Text.&lt;/p&gt;
+&lt;p&gt;Run &lt;a href="../uifcsetuptemplatefile/"&gt;&lt;code&gt;uIfcSetupTemplateFile&lt;/code&gt;&lt;/a&gt; before a serious export. It seeds the layer tree and the standard Document User Text keys. Check or edit those keys in &lt;strong&gt;Document Properties → User Text&lt;/strong&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Key&lt;/th&gt;
+&lt;th&gt;Default&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IFC.SitePlacement&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Local&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Site Z = 0. Engineering elevation stays on the object. Storey Placement Z is the storey Elevation. &lt;code&gt;Anchor&lt;/code&gt;, &lt;code&gt;Mean&lt;/code&gt;, and &lt;code&gt;Legacy&lt;/code&gt; anchor the site at the mean XYZ (older behavior).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IFC.Storey.{Building}.{Storey}.Elevation&lt;/code&gt; or &lt;code&gt;IFC.Storey.{Storey}.Elevation&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;min Z if unset&lt;/td&gt;
+&lt;td&gt;Storey elevation. The name must match segment 4 of the layer path.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IFC.MapConversion.Eastings&lt;/code&gt; / &lt;code&gt;Northings&lt;/code&gt; / &lt;code&gt;OrthogonalHeight&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;seeded when Local and empty or &lt;code&gt;0&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Georeference. &lt;code&gt;0&lt;/code&gt; or missing means unset, so a Local export writes mean XY / mean Z (or &lt;code&gt;IFC.Offset.Z&lt;/code&gt;).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IFC.Offset.X&lt;/code&gt; / &lt;code&gt;Y&lt;/code&gt; / &lt;code&gt;Z&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;0&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Geometry offset. Independent of MapConversion.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IFC.Schema&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IFC4&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IFC4&lt;/code&gt;, &lt;code&gt;IFC2X3&lt;/code&gt;, or &lt;code&gt;IFC4X3&lt;/code&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IFC.UseBridge&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;off&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;True&lt;/code&gt; with schema &lt;code&gt;IFC4X3&lt;/code&gt; uses IfcBridge / IfcBridgePart.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;If the file was not set up yet, &lt;code&gt;uIfcExport&lt;/code&gt; reads the selected &lt;code&gt;Project::Site::Building::Storey::…&lt;/code&gt; layer tree and writes only the Document User Text keys that are still missing. It does not overwrite existing values. After the export, open &lt;strong&gt;Document Properties → User Text&lt;/strong&gt; to edit them.&lt;/p&gt;
+&lt;p&gt;Property types live in the key. See &lt;a href="../uifcapplysharedparams/"&gt;&lt;code&gt;uIfcApplySharedParams&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>uMeshToNurbs</title><link>https://comma3d.github.io/commarh-releases/docs/mesh/umeshtonurbs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/mesh/umeshtonurbs/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Mesh&lt;/strong&gt; → &lt;code&gt;uMeshToNurbs&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Convert meshes to NURBS; keeps attributes. Quality Fast/Balanced/Tight (default Balanced: faceted + analytic for prism/tubes/circular holes, auto-heal). Output Replace/Copy. Advanced=Yes shows Mode/Method/Tolerance/HealOpen/…. Free/Trial: 50 meshes per run. Rotational parts (bolts, shafts, rings) become real cylinders/cones; multi-piece meshes convert piece by piece and unconvertible pieces stay meshes (PARTIAL).&lt;/p&gt;</description></item><item><title>uObject</title><link>https://comma3d.github.io/commarh-releases/docs/doc/uobject/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/doc/uobject/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Doc&lt;/strong&gt; → &lt;code&gt;uObject&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Open Object inspection and Select Similar panel.&lt;/p&gt;</description></item><item><title>uSection</title><link>https://comma3d.github.io/commarh-releases/docs/drafting/usection/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/drafting/usection/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Drafting&lt;/strong&gt; → &lt;code&gt;uSection&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Create section curves.&lt;/p&gt;</description></item><item><title>Using the menu</title><link>https://comma3d.github.io/commarh-releases/docs/getting-started/using-the-menu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/getting-started/using-the-menu/</guid><description>
+&lt;p&gt;Run &lt;code&gt;commaMenu&lt;/code&gt; to open the type menu.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Group&lt;/th&gt;
+&lt;th&gt;What it covers&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Doc&lt;/td&gt;
+&lt;td&gt;Layers, objects, attributes, visibility, sort, scope box, tolerance, quick tools&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Curve&lt;/td&gt;
+&lt;td&gt;Curve scale, direction, conversion, and circle or arc fitting&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Surface&lt;/td&gt;
+&lt;td&gt;Surface normal&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Brep&lt;/td&gt;
+&lt;td&gt;Scale, loft, smooth, combine, and face extraction&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mesh&lt;/td&gt;
+&lt;td&gt;Patch, mesh to NURBS, and 2D outline&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Drafting&lt;/td&gt;
+&lt;td&gt;Blocks, section, annotation, hatch, and measurements&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CAD&lt;/td&gt;
+&lt;td&gt;DWG import and export&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;IFC&lt;/td&gt;
+&lt;td&gt;IFC import, export, template, shared parameters, and IfcOpenShell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;code&gt;commaMenu&lt;/code&gt; also includes &lt;strong&gt;License Manager&lt;/strong&gt;, which runs &lt;code&gt;commaRegister&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Commands that are not on the menu are still public. Type the command name. Each of those pages says so.&lt;/p&gt;</description></item><item><title>License</title><link>https://comma3d.github.io/commarh-releases/docs/getting-started/license/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/getting-started/license/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;License Manager&lt;/strong&gt;, or type &lt;code&gt;commaRegister&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;commaRegister&lt;/code&gt; opens Comma License Manager for this computer. It shows the Machine ID (with Copy), the current status, and a license key box.&lt;/p&gt;
+&lt;p&gt;A computer without a key runs a 45-day trial. No sign-up is required. The customer line then reads &amp;ldquo;This computer (no sign-up)&amp;rdquo;. Status reads &lt;strong&gt;Trial&lt;/strong&gt; with the days left, &lt;strong&gt;Trial - last day&lt;/strong&gt; on the final day, &lt;strong&gt;Licensed&lt;/strong&gt; for an active Pro key, or &lt;strong&gt;Unlicensed&lt;/strong&gt; when the trial is over and no key is active.&lt;/p&gt;
+&lt;p&gt;To activate a key, paste it into &lt;strong&gt;License key&lt;/strong&gt; or use &lt;strong&gt;Browse&amp;hellip;&lt;/strong&gt;, then click &lt;strong&gt;Activate&lt;/strong&gt;. &lt;strong&gt;Remove&lt;/strong&gt; clears the key stored on this computer.&lt;/p&gt;
+&lt;p&gt;For Pro, more seats, or a key for another computer, use &lt;strong&gt;Contact us to get a license&lt;/strong&gt; or write to &lt;a href="mailto:comma3d.aec@gmail.com"&gt;comma3d.aec@gmail.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Do not paste a license key into a GitHub issue.&lt;/p&gt;</description></item><item><title>uAnnotation</title><link>https://comma3d.github.io/commarh-releases/docs/drafting/uannotation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/drafting/uannotation/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Drafting&lt;/strong&gt; → &lt;code&gt;uAnnotation&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Open annotation toolbar for scale, style, and sync.&lt;/p&gt;</description></item><item><title>uDwgExport</title><link>https://comma3d.github.io/commarh-releases/docs/cad/udwgexport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/cad/udwgexport/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;CAD&lt;/strong&gt; → &lt;code&gt;uDwgExport&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Batch export DWG/3DM/DXF in Object or Layer mode.&lt;/p&gt;</description></item><item><title>uIfcSetupTemplateFile</title><link>https://comma3d.github.io/commarh-releases/docs/ifc/uifcsetuptemplatefile/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/ifc/uifcsetuptemplatefile/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;IFC&lt;/strong&gt; → &lt;code&gt;uIfcSetupTemplateFile&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Create an IFC template: layer hierarchy, Document User Text (including &lt;code&gt;IFC.SitePlacement=Local&lt;/code&gt;), built-in shared parameters, and samples.&lt;/p&gt;
+&lt;p&gt;The layer tree is &lt;code&gt;Project::Site::Building::Storey::…&lt;/code&gt;. Document User Text also receives &lt;code&gt;IFC.SharedParam.*[Type]&lt;/code&gt;. The command creates a &lt;strong&gt;TypeCatalog_Sample&lt;/strong&gt; object with one sample key for each property-type token.&lt;/p&gt;
+&lt;p&gt;Run this command before a serious IFC workflow, then review &lt;strong&gt;Document Properties → User Text&lt;/strong&gt;. The key table and the export fallback are on &lt;a href="../uifcexport/"&gt;&lt;code&gt;uIfcExport&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>uLoftPro</title><link>https://comma3d.github.io/commarh-releases/docs/brep/uloftpro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/brep/uloftpro/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Brep&lt;/strong&gt; → &lt;code&gt;uLoftPro&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Preview multi-rail Loft/Sweep output with section distribution and optional capping.&lt;/p&gt;</description></item><item><title>uMeshOutline</title><link>https://comma3d.github.io/commarh-releases/docs/mesh/umeshoutline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/mesh/umeshoutline/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Mesh&lt;/strong&gt; → &lt;code&gt;uMeshOutline&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Extract 2D outline polylines from surfaces, polysurfaces, or meshes (CPlane / World / View; Merge All / ByLayer / PerObject).&lt;/p&gt;</description></item><item><title>uMove</title><link>https://comma3d.github.io/commarh-releases/docs/doc/umove/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/doc/umove/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Doc&lt;/strong&gt; → &lt;code&gt;uMove&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Open saved real/local coordinate move panel.&lt;/p&gt;</description></item><item><title>uPolyToNurbsCurve</title><link>https://comma3d.github.io/commarh-releases/docs/curve/upolytonurbscurve/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/curve/upolytonurbscurve/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Curve&lt;/strong&gt; → &lt;code&gt;uPolyToNurbsCurve&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Replace polylines with cubic interpolated curves after filtering vertices by tolerance.&lt;/p&gt;</description></item><item><title>uVisibilityAdd</title><link>https://comma3d.github.io/commarh-releases/docs/more/uvisibilityadd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/more/uvisibilityadd/</guid><description>
+&lt;p&gt;Where to find it: type &lt;code&gt;uVisibilityAdd&lt;/code&gt;. This command is not listed on &lt;code&gt;commaMenu&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Add objects to an open Visibility panel.&lt;/p&gt;</description></item><item><title>Report a problem</title><link>https://comma3d.github.io/commarh-releases/docs/getting-started/report-a-problem/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/getting-started/report-a-problem/</guid><description>
+&lt;p&gt;Problems are tracked on &lt;a href="https://github.com/Comma3D/commarh-releases/issues" target="_blank" rel="noopener"&gt;CommaRh Issues&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The installed CommaRh version shown in Package Manager&lt;/li&gt;
+&lt;li&gt;The Rhino 8 version&lt;/li&gt;
+&lt;li&gt;The command name&lt;/li&gt;
+&lt;li&gt;What you expected and what happened&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Leave license keys out of the issue. For a new key, use &lt;code&gt;commaRegister&lt;/code&gt; or &lt;a href="mailto:comma3d.aec@gmail.com"&gt;comma3d.aec@gmail.com&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>uAttribute</title><link>https://comma3d.github.io/commarh-releases/docs/doc/uattribute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/doc/uattribute/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Doc&lt;/strong&gt; → &lt;code&gt;uAttribute&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Prioritize Layer, Name, Color, and user attributes; toggle Area/Volume with mm/m display when needed.&lt;/p&gt;</description></item><item><title>uIfcApplySharedParams</title><link>https://comma3d.github.io/commarh-releases/docs/ifc/uifcapplysharedparams/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/ifc/uifcapplysharedparams/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;IFC&lt;/strong&gt; → &lt;code&gt;uIfcApplySharedParams&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Apply &lt;code&gt;IFC.SharedParam.*[Type]&lt;/code&gt;. The type is in the Key (&lt;code&gt;YesNo&lt;/code&gt; or &lt;code&gt;IfcBoolean&lt;/code&gt;, &lt;code&gt;IfcIdentifier&lt;/code&gt;, …) and the Value is user data.&lt;/p&gt;
+&lt;p&gt;Document shared parameters use &lt;code&gt;IFC.SharedParam.&amp;lt;ObjectKey&amp;gt;[Type]&lt;/code&gt;. Object User Text uses &lt;code&gt;&amp;lt;ObjectKey&amp;gt;[Type]&lt;/code&gt;. Export strips the &lt;code&gt;[…]&lt;/code&gt; from the property name and writes an &lt;code&gt;IfcPropertySingleValue&lt;/code&gt; with that nominal type.&lt;/p&gt;
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
+&lt;div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Right: Dimensions.QTO.Area[Area] = 12.5
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Right: Pset_WallCommon.IsExternal[YesNo] = False
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Right: Spec.Code[IfcIdentifier] = W-01
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Wrong: Spec.Flag = True[IfcBoolean]&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+aria-label="Copy code"
+data-copied-label="Copied!"
+&gt;
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Token in &lt;code&gt;[…]&lt;/code&gt;&lt;/th&gt;
+&lt;th&gt;IFC nominal value&lt;/th&gt;
+&lt;th&gt;Example value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;Text&lt;/code&gt; / &lt;code&gt;IfcLabel&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcLabel&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Sample label&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IfcText&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcText&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;a long string&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IfcIdentifier&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcIdentifier&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;ID-001@tag&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;YesNo&lt;/code&gt; / &lt;code&gt;IfcBoolean&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcBoolean&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Yes&lt;/code&gt; / &lt;code&gt;True&lt;/code&gt; / &lt;code&gt;False&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IfcLogical&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcLogical&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;True&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;Integer&lt;/code&gt; / &lt;code&gt;IfcInteger&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcInteger&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;42&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;Number&lt;/code&gt; / &lt;code&gt;IfcReal&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcReal&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;3.14&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;Length&lt;/code&gt; / &lt;code&gt;IfcLengthMeasure&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcLengthMeasure&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;1.25&lt;/code&gt; (metres)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;Area&lt;/code&gt; / &lt;code&gt;IfcAreaMeasure&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcAreaMeasure&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;12.5&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;Volume&lt;/code&gt; / &lt;code&gt;IfcVolumeMeasure&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcVolumeMeasure&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;0.75&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IfcDate&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcDate&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;2026-11-07&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IfcDateTime&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcDateTime&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;2026-11-07T16:00:00&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IfcTime&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcTime&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;16:00:00&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IfcDuration&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcDuration&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;P1D&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IfcURIReference&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcURIReference&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;https://…&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IfcDescriptiveMeasure&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcDescriptiveMeasure&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;approx 2 m&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;IfcTimeStamp&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IfcTimeStamp&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;unix seconds&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;code&gt;uIfcSetupTemplateFile&lt;/code&gt; creates &lt;strong&gt;TypeCatalog_Sample&lt;/strong&gt; with one key for each token.&lt;/p&gt;</description></item><item><title>uMergeHatch</title><link>https://comma3d.github.io/commarh-releases/docs/drafting/umergehatch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/drafting/umergehatch/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Drafting&lt;/strong&gt; → &lt;code&gt;uMergeHatch&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Merge multiple hatches.&lt;/p&gt;</description></item><item><title>uRegen</title><link>https://comma3d.github.io/commarh-releases/docs/cad/uregen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/cad/uregen/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;CAD&lt;/strong&gt; → &lt;code&gt;uRegen&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Regenerate CAD geometry.&lt;/p&gt;</description></item><item><title>uSmoothPolySrf</title><link>https://comma3d.github.io/commarh-releases/docs/brep/usmoothpolysrf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/brep/usmoothpolysrf/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Brep&lt;/strong&gt; → &lt;code&gt;uSmoothPolySrf&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Smooth polysurface edges.&lt;/p&gt;</description></item><item><title>uTryGetCircle</title><link>https://comma3d.github.io/commarh-releases/docs/curve/utrygetcircle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/curve/utrygetcircle/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Curve&lt;/strong&gt; → &lt;code&gt;uTryGetCircle&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Fit selected curves as circles or endpoint-preserving arcs within document absolute tolerance.&lt;/p&gt;</description></item><item><title>uDist</title><link>https://comma3d.github.io/commarh-releases/docs/drafting/udist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/drafting/udist/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Drafting&lt;/strong&gt; → &lt;code&gt;uDist&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Measure distance between two points.&lt;/p&gt;</description></item><item><title>uFaceFromDirection</title><link>https://comma3d.github.io/commarh-releases/docs/brep/ufacefromdirection/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/brep/ufacefromdirection/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Brep&lt;/strong&gt; → &lt;code&gt;uFaceFromDirection&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Extract Brep faces by direction.&lt;/p&gt;</description></item><item><title>uIfcInstall</title><link>https://comma3d.github.io/commarh-releases/docs/ifc/uifcinstall/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/ifc/uifcinstall/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;IFC&lt;/strong&gt; → &lt;code&gt;uIfcInstall&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Install IfcOpenShell for Rhino Python.&lt;/p&gt;</description></item><item><title>uSort</title><link>https://comma3d.github.io/commarh-releases/docs/doc/usort/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/doc/usort/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Doc&lt;/strong&gt; → &lt;code&gt;uSort&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Open the saved selection-order toolbar; sort and bake actions remain in the panel.&lt;/p&gt;</description></item><item><title>uLength</title><link>https://comma3d.github.io/commarh-releases/docs/drafting/ulength/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/drafting/ulength/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Drafting&lt;/strong&gt; → &lt;code&gt;uLength&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Measure curve length.&lt;/p&gt;</description></item><item><title>uTolerance</title><link>https://comma3d.github.io/commarh-releases/docs/doc/utolerance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/doc/utolerance/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Doc&lt;/strong&gt; → &lt;code&gt;uTolerance&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Temporarily override absolute tolerance while commands run.&lt;/p&gt;</description></item><item><title>uLevel</title><link>https://comma3d.github.io/commarh-releases/docs/drafting/ulevel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/drafting/ulevel/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Drafting&lt;/strong&gt; → &lt;code&gt;uLevel&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Check Z level.&lt;/p&gt;</description></item><item><title>uQuickTools</title><link>https://comma3d.github.io/commarh-releases/docs/doc/uquicktools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/doc/uquicktools/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Doc&lt;/strong&gt; → &lt;code&gt;uQuickTools&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Show Quick Tools at the cursor.&lt;/p&gt;</description></item><item><title>uDiffZ</title><link>https://comma3d.github.io/commarh-releases/docs/drafting/udiffz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/drafting/udiffz/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Drafting&lt;/strong&gt; → &lt;code&gt;uDiffZ&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Check Z difference between two points.&lt;/p&gt;</description></item><item><title>uQuickToolsConfig</title><link>https://comma3d.github.io/commarh-releases/docs/doc/uquicktoolsconfig/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/doc/uquicktoolsconfig/</guid><description>
+&lt;p&gt;Where to find it: type &lt;code&gt;uQuickToolsConfig&lt;/code&gt;. This command is not listed on &lt;code&gt;commaMenu&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Configure Quick Tools.&lt;/p&gt;</description></item><item><title>uAngle</title><link>https://comma3d.github.io/commarh-releases/docs/drafting/uangle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/drafting/uangle/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Drafting&lt;/strong&gt; → &lt;code&gt;uAngle&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Measure an angle.&lt;/p&gt;</description></item><item><title>uScopeBox</title><link>https://comma3d.github.io/commarh-releases/docs/doc/uscopebox/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/doc/uscopebox/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Doc&lt;/strong&gt; → &lt;code&gt;uScopeBox&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Create a scope box for view clipping.&lt;/p&gt;</description></item><item><title>uGap</title><link>https://comma3d.github.io/commarh-releases/docs/drafting/ugap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/drafting/ugap/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Drafting&lt;/strong&gt; → &lt;code&gt;uGap&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Find gaps between curves.&lt;/p&gt;</description></item><item><title>uArea</title><link>https://comma3d.github.io/commarh-releases/docs/drafting/uarea/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/drafting/uarea/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Drafting&lt;/strong&gt; → &lt;code&gt;uArea&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Calculate surface area.&lt;/p&gt;</description></item><item><title>uVolume</title><link>https://comma3d.github.io/commarh-releases/docs/drafting/uvolume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma3d.github.io/commarh-releases/docs/drafting/uvolume/</guid><description>
+&lt;p&gt;Where to find it: &lt;code&gt;commaMenu&lt;/code&gt; → &lt;strong&gt;Drafting&lt;/strong&gt; → &lt;code&gt;uVolume&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Calculate solid volume.&lt;/p&gt;</description></item></channel></rss>
